@@ -30,6 +30,8 @@ Average reading score
 
 Note: A passing grade is 50 or higher.
 
+![Local Goverment Area (LGA) Summary](LGA_Summary.PNG)
+
 
 
 Each folder contains:
