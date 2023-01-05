@@ -31,6 +31,32 @@ The high-level snapshot of the local government area's key metrics is presented 
 
 ![Local Goverment Area (LGA) Summary](LGA_Summary.PNG)
 
+## School Summary
+
+
+School name
+
+School type
+
+Total students
+
+Total school budget
+
+Per student budget
+
+Average maths score
+
+Average reading score
+
+% passing maths (the percentage of students who passed maths)
+
+% passing reading (the percentage of students who passed reading)
+
+% overall passing (the percentage of students who passed maths AND reading)
+
+The School Summary key metrics are presented below:
+
+![Local Goverment Area (LGA) Summary](LGA_Summary.PNG)
 
 
 Each folder contains:
