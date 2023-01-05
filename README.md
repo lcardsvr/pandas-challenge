@@ -7,10 +7,7 @@ The repository for this project is called pandas-challenge. Inside this reposito
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-Local Government Area (LGA) Summary
-Perform the necessary calculations and then create a high-level snapshot of the local government area's key metrics in a DataFrame.
-
-Include the following:
+## Local Government Area (LGA) Summary
 
 Total number of unique schools
 
@@ -29,6 +26,8 @@ Average reading score
 % overall passing (the percentage of students who passed maths AND reading)
 
 Note: A passing grade is 50 or higher.
+
+The high-level snapshot of the local government area's key metrics which include the metrics is presented below:
 
 ![Local Goverment Area (LGA) Summary](LGA_Summary.PNG)
 
