@@ -27,7 +27,7 @@ Average reading score
 
 Note: A passing grade is 50 or higher.
 
-The high-level snapshot of the local government area's key metrics which include the metrics is presented below:
+The high-level snapshot of the local government area's key metrics is presented below:
 
 ![Local Goverment Area (LGA) Summary](LGA_Summary.PNG)
 
