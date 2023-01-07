@@ -118,8 +118,10 @@ Other interesting tables below
 
 ## Submission
 
-Submitted and available in GitHub under https://github.com/lcardsvr/pandas-challenge
-Written report is included in the Readme.md file 
-Code for the submission is available under https://github.com/lcardsvr/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb
+1. Submitted and available in GitHub under https://github.com/lcardsvr/pandas-challenge
+
+2. Written report is included in the Readme.md file 
+
+3. Code for the submission is available under https://github.com/lcardsvr/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb
 
 
