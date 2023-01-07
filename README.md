@@ -112,6 +112,8 @@ Other interesting tables below
 
 ![School Size vs Per Student Budget count](size-bud_a.PNG)
 
+![School Summary Total](total_a.PNG)
+
 
 
 ## Submission
