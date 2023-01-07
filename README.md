@@ -5,7 +5,7 @@
 
 The repository for this project is called pandas-challenge. Inside this repository, the folder PyCitySchools was created as requested.
 
-Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
+Using Pandas and Jupyter Notebook, the report was created as required. Two observable trends are presented in the conclusions below.
 
 ## Local Government Area (LGA) Summary
 
