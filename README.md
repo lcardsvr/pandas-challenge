@@ -56,7 +56,7 @@ Average reading score
 
 The School Summary key metrics are presented below:
 
-![Local Goverment Area (LGA) Summary](LGA_Summary.PNG)
+![School Summary](School_Summary.PNG)
 
 
 Each folder contains:
