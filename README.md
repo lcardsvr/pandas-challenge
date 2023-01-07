@@ -59,6 +59,23 @@ The School Summary key metrics are presented below:
 ![School Summary](School_Summary.PNG)
 
 
+## Top Performing Schools (By % Overall Passing)
+
+![Top Performing Schools](Top_Perf_Ov_Passing.PNG)
+
+## Bottom Performing Schools (By % Overall Passing)
+
+![Bottom Performing Schools](Bottom_Perf_Ov_Passing.PNG)
+
+
+## Maths Scores by Year
+
+![Maths Scores by Yeat](Maths_Scores_Year.PNG)
+
+## Reading Scores by Year
+
+![Reading Scores by Yeat](Reading_Scores_Year.PNG)
+
 Each folder contains:
 
 1. A file called main.py with the main script to run for each analysis.
