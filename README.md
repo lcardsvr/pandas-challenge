@@ -124,4 +124,6 @@ Other interesting tables below
 
 3. Code for the submission is available under https://github.com/lcardsvr/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb
 
+4. Excel verification sheet with matching numbers to the calculations obtained above is available under https://github.com/lcardsvr/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete_Excel_Analysis.xlsm 
+
 
